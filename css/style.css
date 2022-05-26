@@ -21,14 +21,14 @@ p{
 }
 
 .riquardo{
-    height: 100px;
     border: solid 1px black;
     float: left;
     width: calc(100% / 3);
 }
 
-.prova{
-    
+.prova1 img{
+    height: 200px;
+    width: 200px;
 }
 
 .riga2{
